@@ -1,0 +1,84 @@
+Enter number of elements to sort: 3
+Enter depth: 15
+===== Algorithm: bubble =====
+--- Run 1 ---
+Unsorted: 1 0 0   ->  Sorted: 0 0 1 
+Encryption:   0.0460851 sec
+Decryption:   0.00368817 sec
+Compare:      0.285226 sec
+Swap:         0.226645 sec
+Sort Total:   0.512021 sec
+
+--- Run 2 ---
+Unsorted: 2 2 2   ->  Sorted: 2 2 2 
+Encryption:   0.0475156 sec
+Decryption:   0.00326046 sec
+Compare:      0.288022 sec
+Swap:         0.227019 sec
+Sort Total:   0.515147 sec
+
+--- Run 3 ---
+Unsorted: 2 0 1   ->  Sorted: 0 1 2 
+Encryption:   0.0474843 sec
+Decryption:   0.00366679 sec
+Compare:      0.279726 sec
+Swap:         0.224526 sec
+Sort Total:   0.504487 sec
+
+--- Run 4 ---
+Unsorted: 1 2 1   ->  Sorted: 1 1 2 
+Encryption:   0.0480526 sec
+Decryption:   0.00365183 sec
+Compare:      0.283117 sec
+Swap:         0.224569 sec
+Sort Total:   0.507918 sec
+
+--- Run 5 ---
+Unsorted: 2 0 0   ->  Sorted: 0 0 2 
+Encryption:   0.0482266 sec
+Decryption:   0.00369067 sec
+Compare:      0.281851 sec
+Swap:         0.22393 sec
+Sort Total:   0.506112 sec
+
+
+===== Algorithm: insertion =====
+--- Run 1 ---
+Unsorted: 1 0 1   ->  Sorted: 0 1 1 
+Encryption:   0.0473488 sec
+Decryption:   0.00378283 sec
+Compare:      0.282891 sec
+Swap:         0.224515 sec
+Sort Total:   0.507523 sec
+
+--- Run 2 ---
+Unsorted: 1 1 2   ->  Sorted: 1 1 2 
+Encryption:   0.0478691 sec
+Decryption:   0.00353242 sec
+Compare:      0.28093 sec
+Swap:         0.223611 sec
+Sort Total:   0.504664 sec
+
+--- Run 3 ---
+Unsorted: 0 2 2   ->  Sorted: 0 2 2 
+Encryption:   0.0477892 sec
+Decryption:   0.00364204 sec
+Compare:      0.280901 sec
+Swap:         0.224018 sec
+Sort Total:   0.505188 sec
+
+--- Run 4 ---
+Unsorted: 1 0 1   ->  Sorted: 0 1 1 
+Encryption:   0.0477103 sec
+Decryption:   0.0034565 sec
+Compare:      0.280824 sec
+Swap:         0.222378 sec
+Sort Total:   0.503366 sec
+
+--- Run 5 ---
+Unsorted: 0 2 2   ->  Sorted: 0 2 2 
+Encryption:   0.0480994 sec
+Decryption:   0.00369508 sec
+Compare:      0.277281 sec
+Swap:         0.222462 sec
+Sort Total:   0.499926 sec

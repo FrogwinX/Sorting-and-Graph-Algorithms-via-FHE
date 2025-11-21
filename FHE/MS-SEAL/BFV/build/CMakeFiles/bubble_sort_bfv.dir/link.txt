@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/bubble_sort_bfv.dir/main.cpp.o -o bubble_sort_bfv  /usr/local/lib/libseal-4.1.a

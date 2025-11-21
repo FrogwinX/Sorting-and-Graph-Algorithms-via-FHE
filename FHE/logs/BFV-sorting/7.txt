@@ -1,0 +1,84 @@
+Enter number of elements to sort: 7
+Enter depth: 65
+===== Algorithm: bubble =====
+--- Run 1 ---
+Unsorted: 2 2 6 0 4 6 6   ->  Sorted: 0 2 2 4 6 6 6 
+Encryption:   2.15514 sec
+Decryption:   0.1601 sec
+Compare:      94.5849 sec
+Swap:         74.9565 sec
+Sort Total:   169.587 sec
+
+--- Run 2 ---
+Unsorted: 3 2 5 1 1 4 5   ->  Sorted: 1 1 2 3 4 5 5 
+Encryption:   2.34185 sec
+Decryption:   0.180501 sec
+Compare:      101.854 sec
+Swap:         80.7875 sec
+Sort Total:   182.693 sec
+
+--- Run 3 ---
+Unsorted: 2 5 4 4 0 5 1   ->  Sorted: 0 1 2 4 4 5 5 
+Encryption:   2.26614 sec
+Decryption:   0.171061 sec
+Compare:      106.944 sec
+Swap:         85.0865 sec
+Sort Total:   192.103 sec
+
+--- Run 4 ---
+Unsorted: 3 3 3 6 1 0 4   ->  Sorted: 0 1 3 3 3 4 6 
+Encryption:   2.23079 sec
+Decryption:   0.179227 sec
+Compare:      110.332 sec
+Swap:         87.8277 sec
+Sort Total:   198.22 sec
+
+--- Run 5 ---
+Unsorted: 6 3 6 6 5 6 0   ->  Sorted: 0 3 5 6 6 6 6 
+Encryption:   2.27119 sec
+Decryption:   0.206481 sec
+Compare:      113.187 sec
+Swap:         89.8562 sec
+Sort Total:   203.121 sec
+
+
+===== Algorithm: insertion =====
+--- Run 1 ---
+Unsorted: 4 1 4 4 6 6 4   ->  Sorted: 1 4 4 4 4 6 6 
+Encryption:   2.22408 sec
+Decryption:   0.19054 sec
+Compare:      109.477 sec
+Swap:         86.9221 sec
+Sort Total:   196.479 sec
+
+--- Run 2 ---
+Unsorted: 3 3 5 3 1 0 6   ->  Sorted: 0 1 3 3 3 5 6 
+Encryption:   2.18553 sec
+Decryption:   0.184944 sec
+Compare:      109.321 sec
+Swap:         86.7919 sec
+Sort Total:   196.201 sec
+
+--- Run 3 ---
+Unsorted: 1 4 1 4 3 6 5   ->  Sorted: 1 1 3 4 4 5 6 
+Encryption:   2.19989 sec
+Decryption:   0.192304 sec
+Compare:      110.382 sec
+Swap:         87.4874 sec
+Sort Total:   197.962 sec
+
+--- Run 4 ---
+Unsorted: 0 0 1 6 0 2 0   ->  Sorted: 0 0 0 0 1 2 6 
+Encryption:   2.2063 sec
+Decryption:   0.194098 sec
+Compare:      114.546 sec
+Swap:         90.8383 sec
+Sort Total:   205.474 sec
+
+--- Run 5 ---
+Unsorted: 5 3 3 5 6 6 2   ->  Sorted: 2 3 3 5 5 6 6 
+Encryption:   2.20416 sec
+Decryption:   0.193584 sec
+Compare:      113.367 sec
+Swap:         89.6992 sec
+Sort Total:   203.151 sec

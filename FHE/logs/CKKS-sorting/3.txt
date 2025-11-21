@@ -1,0 +1,84 @@
+Enter number of elements to sort: 3
+Enter depth: 40
+Enter ringDim: 131072
+===== Algorithm: bubble =====
+--- Run 1 ---
+Unsorted: 0 1 0   ->  Sorted: 0 0 1 
+Encryption:   0.576864 sec
+Decryption:   0.108761 sec
+Compare:      4.71499 sec
+Swap:         1.56622 sec
+Sort Total:   6.28967 sec
+
+--- Run 2 ---
+Unsorted: 0 0 1   ->  Sorted: 0 0 1 
+Encryption:   0.564259 sec
+Decryption:   0.0981915 sec
+Compare:      4.62316 sec
+Swap:         1.53045 sec
+Sort Total:   6.16074 sec
+
+--- Run 3 ---
+Unsorted: 2 1 2   ->  Sorted: 1 2 2 
+Encryption:   0.568296 sec
+Decryption:   0.104484 sec
+Compare:      4.70595 sec
+Swap:         1.57448 sec
+Sort Total:   6.28596 sec
+
+--- Run 4 ---
+Unsorted: 2 2 0   ->  Sorted: 0 2 2 
+Encryption:   0.559109 sec
+Decryption:   0.104063 sec
+Compare:      4.7397 sec
+Swap:         1.5936 sec
+Sort Total:   6.33581 sec
+
+--- Run 5 ---
+Unsorted: 2 2 2   ->  Sorted: 2 2 2 
+Encryption:   0.559189 sec
+Decryption:   0.109992 sec
+Compare:      4.69816 sec
+Swap:         1.57566 sec
+Sort Total:   6.27893 sec
+
+===== Algorithm: insertion =====
+--- Run 1 ---
+Unsorted: 1 0 0   ->  Sorted: 0 0 1 
+Encryption:   0.556746 sec
+Decryption:   0.107613 sec
+Compare:      4.76056 sec
+Swap:         1.5877 sec
+Sort Total:   6.35519 sec
+
+--- Run 2 ---
+Unsorted: 2 1 1   ->  Sorted: 1 1 2 
+Encryption:   0.560832 sec
+Decryption:   0.105136 sec
+Compare:      4.75645 sec
+Swap:         1.59622 sec
+Sort Total:   6.3554 sec
+
+--- Run 3 ---
+Unsorted: 1 0 2   ->  Sorted: 0 1 2 
+Encryption:   0.563658 sec
+Decryption:   0.103376 sec
+Compare:      4.76711 sec
+Swap:         1.59277 sec
+Sort Total:   6.36579 sec
+
+--- Run 4 ---
+Unsorted: 2 1 2   ->  Sorted: 1 2 2 
+Encryption:   0.5646 sec
+Decryption:   0.106877 sec
+Compare:      4.81577 sec
+Swap:         1.60439 sec
+Sort Total:   6.42378 sec
+
+--- Run 5 ---
+Unsorted: 0 2 1   ->  Sorted: 0 1 2 
+Encryption:   0.575147 sec
+Decryption:   0.114181 sec
+Compare:      5.08553 sec
+Swap:         1.63166 sec
+Sort Total:   6.7193 sec

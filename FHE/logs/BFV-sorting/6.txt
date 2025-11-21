@@ -1,0 +1,84 @@
+Enter number of elements to sort: 6
+Enter depth: 50
+===== Algorithm: bubble =====
+--- Run 1 ---
+Unsorted: 1 1 0 4 5 1   ->  Sorted: 0 1 1 1 4 5 
+Encryption:   1.48487 sec
+Decryption:   0.117499 sec
+Compare:      43.9491 sec
+Swap:         34.9009 sec
+Sort Total:   78.883 sec
+
+--- Run 2 ---
+Unsorted: 1 4 4 2 4 4   ->  Sorted: 1 2 4 4 4 4 
+Encryption:   1.54787 sec
+Decryption:   0.110393 sec
+Compare:      45.1122 sec
+Swap:         35.866 sec
+Sort Total:   81.0063 sec
+
+--- Run 3 ---
+Unsorted: 5 5 4 4 0 0   ->  Sorted: 0 0 4 4 5 5 
+Encryption:   1.58966 sec
+Decryption:   0.101426 sec
+Compare:      45.5751 sec
+Swap:         36.1704 sec
+Sort Total:   81.7729 sec
+
+--- Run 4 ---
+Unsorted: 0 5 3 5 5 4   ->  Sorted: 0 3 4 5 5 5 
+Encryption:   1.60296 sec
+Decryption:   0.107844 sec
+Compare:      46.5499 sec
+Swap:         36.6389 sec
+Sort Total:   83.2189 sec
+
+--- Run 5 ---
+Unsorted: 4 4 4 3 0 4   ->  Sorted: 0 3 4 4 4 4 
+Encryption:   1.66332 sec
+Decryption:   0.107925 sec
+Compare:      45.9202 sec
+Swap:         36.5681 sec
+Sort Total:   82.5169 sec
+
+
+===== Algorithm: insertion =====
+--- Run 1 ---
+Unsorted: 0 2 2 2 5 3   ->  Sorted: 0 2 2 2 3 5 
+Encryption:   1.62358 sec
+Decryption:   0.105808 sec
+Compare:      46.1863 sec
+Swap:         36.9045 sec
+Sort Total:   83.1246 sec
+
+--- Run 2 ---
+Unsorted: 2 4 0 3 3 4   ->  Sorted: 0 2 3 3 4 4 
+Encryption:   1.5996 sec
+Decryption:   0.113646 sec
+Compare:      46.7781 sec
+Swap:         37.2658 sec
+Sort Total:   84.0796 sec
+
+--- Run 3 ---
+Unsorted: 2 5 1 5 1 3   ->  Sorted: 1 1 2 3 5 5 
+Encryption:   1.57208 sec
+Decryption:   0.118398 sec
+Compare:      46.9745 sec
+Swap:         37.287 sec
+Sort Total:   84.2971 sec
+
+--- Run 4 ---
+Unsorted: 2 2 5 5 4 2   ->  Sorted: 2 2 2 4 5 5 
+Encryption:   1.58468 sec
+Decryption:   0.103658 sec
+Compare:      47.061 sec
+Swap:         37.1755 sec
+Sort Total:   84.2587 sec
+
+--- Run 5 ---
+Unsorted: 4 0 0 2 0 3   ->  Sorted: 0 0 0 2 3 4 
+Encryption:   1.5662 sec
+Decryption:   0.106623 sec
+Compare:      46.9165 sec
+Swap:         37.6748 sec
+Sort Total:   84.6215 sec
