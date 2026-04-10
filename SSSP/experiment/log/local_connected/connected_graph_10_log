@@ -1,0 +1,18 @@
+Log for running Bellman-Ford on connected_graph_10
+------
+Encryption time: 0.0113 sec (0 hrs, 0 mins, 0 sec)
+Min SSSP iteration time: 214.5190 sec (0 hrs, 3 mins, 34 sec)
+Mean SSSP iteration time: 216.3648 sec (0 hrs, 3 mins, 36 sec)
+Max SSSP iteration time: 216.8020 sec (0 hrs, 3 mins, 36 sec)
+Total SSSP time: 1947.2800 sec (0 hrs, 32 mins, 27 sec)
+Decryption time: 0.0002 sec (0 hrs, 0 mins, 0 sec)
+------
+Iteration 1: 216.8020 sec (0 hrs, 3 mins, 36 sec)
+Iteration 2: 216.6130 sec (0 hrs, 3 mins, 36 sec)
+Iteration 3: 216.6310 sec (0 hrs, 3 mins, 36 sec)
+Iteration 4: 216.7390 sec (0 hrs, 3 mins, 36 sec)
+Iteration 5: 216.6740 sec (0 hrs, 3 mins, 36 sec)
+Iteration 6: 216.6990 sec (0 hrs, 3 mins, 36 sec)
+Iteration 7: 216.4920 sec (0 hrs, 3 mins, 36 sec)
+Iteration 8: 214.5190 sec (0 hrs, 3 mins, 34 sec)
+Iteration 9: 216.1140 sec (0 hrs, 3 mins, 36 sec)

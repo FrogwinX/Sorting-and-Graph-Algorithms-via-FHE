@@ -1,0 +1,23 @@
+Log for running Parallel Dijkstra on connected_graph_15
+------
+Encryption time: 22.0000 sec (0 hrs, 0 mins, 22 sec)
+Min SSSP iteration time: 1596.0000 sec (0 hrs, 26 mins, 36 sec)
+Mean SSSP iteration time: 2510.3571 sec (0 hrs, 41 mins, 50 sec)
+Max SSSP iteration time: 3524.0000 sec (0 hrs, 58 mins, 44 sec)
+Total SSSP time: 35145.0000 sec (9 hrs, 45 mins, 45 sec)
+Decryption time: 20.0000 sec (0 hrs, 0 mins, 20 sec)
+------
+Iteration 1: 3127.0000 sec (0 hrs, 52 mins, 7 sec)
+Iteration 2: 2395.0000 sec (0 hrs, 39 mins, 55 sec)
+Iteration 3: 3097.0000 sec (0 hrs, 51 mins, 37 sec)
+Iteration 4: 2854.0000 sec (0 hrs, 47 mins, 34 sec)
+Iteration 5: 2212.0000 sec (0 hrs, 36 mins, 52 sec)
+Iteration 6: 3469.0000 sec (0 hrs, 57 mins, 49 sec)
+Iteration 7: 1600.0000 sec (0 hrs, 26 mins, 40 sec)
+Iteration 8: 1596.0000 sec (0 hrs, 26 mins, 36 sec)
+Iteration 9: 2215.0000 sec (0 hrs, 36 mins, 55 sec)
+Iteration 10: 1666.0000 sec (0 hrs, 27 mins, 46 sec)
+Iteration 11: 1601.0000 sec (0 hrs, 26 mins, 41 sec)
+Iteration 12: 3471.0000 sec (0 hrs, 57 mins, 51 sec)
+Iteration 13: 2318.0000 sec (0 hrs, 38 mins, 38 sec)
+Iteration 14: 3524.0000 sec (0 hrs, 58 mins, 44 sec)

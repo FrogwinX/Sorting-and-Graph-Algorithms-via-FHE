@@ -1,0 +1,13 @@
+Log for running Bellman-Ford on sparse_graph_5
+------
+Encryption time: 0.0023 sec (0 hrs, 0 mins, 0 sec)
+Min SSSP iteration time: 23.4991 sec (0 hrs, 0 mins, 23 sec)
+Mean SSSP iteration time: 23.6237 sec (0 hrs, 0 mins, 23 sec)
+Max SSSP iteration time: 23.7665 sec (0 hrs, 0 mins, 23 sec)
+Total SSSP time: 94.4972 sec (0 hrs, 1 mins, 34 sec)
+Decryption time: 0.0001 sec (0 hrs, 0 mins, 0 sec)
+------
+Iteration 1: 23.7665 sec (0 hrs, 0 mins, 23 sec)
+Iteration 2: 23.6453 sec (0 hrs, 0 mins, 23 sec)
+Iteration 3: 23.5840 sec (0 hrs, 0 mins, 23 sec)
+Iteration 4: 23.4991 sec (0 hrs, 0 mins, 23 sec)

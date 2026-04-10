@@ -1,0 +1,13 @@
+Log for running Parallel Dijkstra on sparse_graph_5
+------
+Encryption time: 17.0000 sec (0 hrs, 0 mins, 17 sec)
+Min SSSP iteration time: 120.0000 sec (0 hrs, 2 mins, 0 sec)
+Mean SSSP iteration time: 124.0000 sec (0 hrs, 2 mins, 4 sec)
+Max SSSP iteration time: 129.0000 sec (0 hrs, 2 mins, 9 sec)
+Total SSSP time: 496.0000 sec (0 hrs, 8 mins, 16 sec)
+Decryption time: 18.0000 sec (0 hrs, 0 mins, 18 sec)
+------
+Iteration 1: 120.0000 sec (0 hrs, 2 mins, 0 sec)
+Iteration 2: 122.0000 sec (0 hrs, 2 mins, 2 sec)
+Iteration 3: 125.0000 sec (0 hrs, 2 mins, 5 sec)
+Iteration 4: 129.0000 sec (0 hrs, 2 mins, 9 sec)
